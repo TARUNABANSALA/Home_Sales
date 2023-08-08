@@ -1,14 +1,5 @@
-Big Data Challenge
+Big Data Challenge:
 This challenge involved using knowledge of SparkSQL to determine key metrics about home sales data. Spark was then used to create temporary views, partition the data, cache and uncache a temporary table, and verify that the table had been uncached.
-
-Instructions
-I have renamed renamed the Home_Sales_starter_code_colab.ipynb file as Home_Sales_google_colab.ipynb.
-
-Import the necessary PySpark SQL functions for this assignment.
-
-Read the home_sales_revised.csv data in the starter code into a Spark DataFrame.
-
-Create a temporary table called home_sales.
 
 Answer the following questions using SparkSQL:
 What is the average price for a four-bedroom house sold for each year? Round off your answer to two decimal places.
